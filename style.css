@@ -43,6 +43,7 @@ h2 {
     opacity: 0.9;
     margin: 0 auto;
     padding: 50px;
+    border-radius: 1%;
 }
 
 img {
@@ -80,7 +81,15 @@ hr {
 
 .price {
     text-align: right;
-    width: 100%;
+    width: 25%;
+}
+
+.yourdrink {
+    width: 80%;
+}
+
+.item {
+    display: flex;
 }
 
 /* FOOTER */
