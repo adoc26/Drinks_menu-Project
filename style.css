@@ -41,4 +41,6 @@ h2 {
     width: 50%;
     background-color: #ffeedd;
     opacity: 0.9;
+    margin: 0 auto;
+    padding: 50px;
 }
