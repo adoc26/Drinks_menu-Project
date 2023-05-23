@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     padding: 20px;
+    font-family: sans-serif;
 }
 
 h1 {
@@ -29,4 +30,9 @@ h1,
 h2,
 p {
     text-align: center;
+}
+
+h1,
+h2 {
+    font-family: 'Darumadrop One', cursive;
 }
