@@ -104,3 +104,19 @@ footer {
 .bottom-line {
     margin-top: 25px;
 }
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #5c8001;
+}
+
+a:active {
+    color: #e76f51;
+}
