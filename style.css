@@ -24,3 +24,9 @@ img.extra-icon {
     width: 30px;
     padding-bottom: 20px;
 }
+
+h1,
+h2,
+p {
+    text-align: center;
+}
