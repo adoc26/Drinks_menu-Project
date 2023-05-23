@@ -14,3 +14,13 @@ h1 {
 h2 {
     font-size: 30px;
 }
+
+img.smoothie-icon {
+    width: 30px;
+    padding-bottom: 20px;
+}
+
+img.extra-icon {
+    width: 30px;
+    padding-bottom: 20px;
+}
