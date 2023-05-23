@@ -44,3 +44,7 @@ h2 {
     margin: 0 auto;
     padding: 50px;
 }
+
+img {
+    display: block;
+}
