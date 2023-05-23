@@ -64,3 +64,21 @@ hr {
     margin-bottom: 5px;
     font-size: 20px;
 }
+
+.flavor,
+.extra {
+    text-align: left;
+    width: 75%;
+}
+
+.ingredients {
+    font-style: italic;
+    width: 75%;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+.price {
+    text-align: right;
+    width: 100%;
+}
